@@ -19,23 +19,23 @@ As an existing user to the site, i want to find information on the schedules tha
 
 ### Header:
 
-The Header will be bold, vibrant and easy to use with the name of Adz fitness gym with a home, contact and about us button which users will be able to click to navigate from page to page
+The Header will be bold, vibrant and easy to use with the name of Adz fitness with a home, contact and gallery button which users will be able to click to navigate from page to page
 
 ### Footer:
 
-The footer page will contain social media links
+The footer page will contain social media links and some about us information
 
 ### Home:
 
-Home page will include details about the gym with an option to sign up to the gym aswell as having it very simple with the design and the background
+Home page will include details about the gym aswell as having a very simple with the design and the background, it will also contain gym schedules that we do during the week
 
 ### Contact page:
 
-Contact page will include contact details of the gym 
+Contact page will include contact details of the gym and also have an option to sign up for new members
 
-### About us Page:
+### Gallery Page:
 
-The about us page will contain information about the gym, how it started, our aims for new and exisiting users
+The Gallery page will showcase images of the gym and facilities aswell as photos of members of the gym working out
 
 
 
