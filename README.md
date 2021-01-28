@@ -41,6 +41,7 @@ The about us page will contain information about the gym, how it started, our ai
 
 ## Wireframes
 
+
 ## Typography and color scheme
 
 
