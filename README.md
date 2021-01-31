@@ -9,11 +9,15 @@
 
 ### First time visitor goals
 
-As a first time visitor to the site and someone who is keen to get fit, i want to easily understand how to navigate the sight, and understand what the gym has to offer such as their classes and schedule, i also want to know the location of the gym and the opening hours as i need to see if i can find a time that works for me, which then i would like to find the ways to then contact the gym and then sign up as im looking to get ready in my journey of fitness as soon as possible.
+* As a first time visitor, i want to easily understand how to navigate the site
+* Want to understand what the gym has to offer such as classes and schedule
+* I also want to know the location of the gym and the opening hours as i need to see if i can find a time that works for me
+* I would like to find the ways to then contact the gym and then sign up 
 
 ### Existing User goals
 
-As an existing user to the site, i want to find information on the schedules that the gym have on a weekly basis to see if there are any changes to the schedules and to double check if i will be able to attend. I would also want to be able to easily access the conact details of the gym if i were to have any queries or problems with my gym membership/experience.
+* As an existing user to the site, i want to find information on the schedules that the gym have on a weekly basis to see if there are any changes to the schedules 
+* I would also want to be able to easily access the conact details of the gym if i were to have any queries or problems with my gym membership/experience
 
 ## Features
 
@@ -23,11 +27,11 @@ The Header will be bold, vibrant and easy to use with the name of Adz fitness wi
 
 ### Footer:
 
-The footer page will contain social media links and some about us information
+The Footer page will contain social media links and some about us information
 
 ### Home:
 
-Home page will include details about the gym aswell as having a very simple with the design and the background, it will also contain gym schedules that we do during the week
+Home page will include details about the gym aswell as having a very simple with the design and the background, it will also contain gym schedules that we do during the week and some information on the gym
 
 ### Contact page:
 
