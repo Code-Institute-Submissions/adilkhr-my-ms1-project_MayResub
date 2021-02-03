@@ -50,3 +50,54 @@ h2{
 .active{
     border-bottom: 1px solid #777777
 }
+
+#hero-image{
+    height: 600px;
+    width: 100%;
+    background: url(https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80) no-repeat center center;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+
+}
+
+#hero-outer{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+#cover-text, #cover-text h2{
+    color: #ffffff
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: 'Russo One', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 280px;
+    height: 150px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(19, 16, 219, .7);
+
+    bottom: 30px;
+    right: 120px;
+
+    position: absolute;
+}
