@@ -50,3 +50,129 @@ h2{
 .active{
     border-bottom: 1px solid #777777
 }
+
+#hero-image{
+    height: 600px;
+    width: 100%;
+    background: url(https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80) no-repeat center center;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+
+}
+
+#hero-outer{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+#cover-text, #cover-text h2{
+    color: #ffffff
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: 'Russo One', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 280px;
+    height: 150px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(19, 16, 219, .7);
+
+    bottom: 250px;
+    right: 65px;
+
+    position: absolute;
+}
+
+#gym-ethos{
+    height: 600px;
+}
+
+#left-about{
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#right-about{
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+#center-about{
+    width: 33%;
+    margin: 0 auto;
+
+}
+
+hr {
+    border-top: 1px solid #777777;
+    widows: 100px;
+    margin: 5px 0;
+}
+
+.left-about-heading{
+    width: 50%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading{
+    width: 50%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading h2{
+    text-align: right;
+}
+
+.right-about-heading p {
+    text-align: right;
+}
+
+#welcome{
+    margin: 25px 0;
+    text-align: center;
+    font-size: 280%;
+}
+
+#circle-container{
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#circle-cover-bg{
+    background: url(https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzN8fGd5bXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
