@@ -176,3 +176,28 @@ hr {
     height: 100%;
     border-radius: 50%;
 }
+
+#times{
+    background-image: url(https://images.unsplash.com/photo-1434682881908-b43d0467b798?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1353&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#times div{
+    color: #fafafa;
+    background-color: rgba(0,0,0, .6);
+    width: 19%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    margin: 2px;
+
+}
+
+#times h2{
+    color: #fafafa;
+}
