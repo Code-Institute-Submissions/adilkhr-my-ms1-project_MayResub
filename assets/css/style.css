@@ -315,6 +315,16 @@ footer {
         padding: 0;
     }
 
+    #times div {
+        width:100%;
+        clear:both;
+        height:150%;
+        border-style: solid;
+        border-bottom-width: 1px;
+        border-bottom-color: #fff;
+        padding: 0;
+    }
+
     hr {
         display: none;
     }
