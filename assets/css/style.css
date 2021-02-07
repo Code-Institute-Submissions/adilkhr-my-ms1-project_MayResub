@@ -21,6 +21,7 @@ h2{
 #logo {
     float: left;
     font-size: 270%;
+    margin-left: 30px;
 }
 
 #menu{
@@ -318,4 +319,38 @@ footer {
         display: none;
     }
 
+}
+
+@media screen and (max-width:943px){
+    #menu{
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    #cover-text{
+        left:0px;
+    }
+
+    #gym-ethos{
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .left-about-heading, .right-about-heading{
+        width: inherit;
+    }
+
+    .left-about-heading h2 , .right-about-heading h2{
+        width:100%;
+        text-align: center;
+    }
+
+    .left-about-heading p, .right-about-heading p {
+        text-align: center;
+        padding: 0 20px 0 20px;
+    }
 }
