@@ -3,7 +3,7 @@
 *{
     margin:0;
     padding:0;
-    box-sizing: border-box;
+    border: 0;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -337,7 +337,7 @@ footer {
 .container .contactInfo .box{
     position: relative;
     padding: 20px 0;
-    display: flex;  
+    display: flex; 
 }
 
 .container .contactInfo .box .icon{
@@ -383,14 +383,50 @@ footer {
     margin-top: 10px;
 }
 
-.contactForm .inputBox input{
+.contactForm .inputBox input,
+.contactForm .inputBox textarea
+{
     width: 100%;
     padding: 5px 0;
     font-size: 16px;
     margin: 10px 0;
     border: none;
     border-bottom: 2px solid #333;
-    outline: none; 
+    outline: none;
+    resize: none; 
+}
+
+.contactForm .inputBox span {
+    position: absolute;
+    left: 0;
+    padding: 5px 0;
+    font-size: 16px;
+    margin: 10px 0;
+    pointer-events: none;
+    transition: 0.5s;
+    color: #666666
+}
+
+.contactForm .inputBox input:focus ~ span,
+.contactForm .inputBox input:valid ~ span
+.contactForm .inputBox textarea:focus ~ span,
+.contactForm .inputBox textarea:valid ~ span
+{
+    color: #e91e63;
+    font-size: 12px;
+    transform: translateY(-20px);
+}
+
+.contactForm .inputBox input [type="submit"] {
+    width: 100px;
+    background: #00bcd4;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 18px;
+
+
 }
 
 @media screen and (max-width: 1393px) {
