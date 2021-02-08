@@ -23,15 +23,15 @@
 
 ### Header:
 
-The Header will be bold, vibrant and easy to use with the name of Adz fitness with a home, contact and gallery button which users will be able to click to navigate from page to page
+The Header will be bold and easy to use with the name of Adz fitness with a home, contact and gallery button which users will be able to click to navigate from page to page
 
 ### Footer:
 
-The Footer page will contain social media links and some about us information
+The Footer page will contain social media links
 
 ### Home:
 
-Home page will include details about the gym aswell as having a very simple with the design and the background, it will also contain gym schedules that we do during the week and some information on the gym
+Home page will include details about the gym aswell as having hero images, it will also contain the gym schedules that we do during the week and some information on the gym
 
 ### Contact page:
 
@@ -47,5 +47,25 @@ The Gallery page will showcase images of the gym and facilities aswell as photos
 
 
 ## Typography and color scheme
+
+## Technonology
+
+## Testing
+
+### Supported screens and browsers
+
+### Test cases:
+
+### Code validation:
+
+### Fixed bugs:
+
+## Deployment
+
+### Deployment with gitpod:
+
+### Deployment with githubpages:
+
+## Credits
 
 
