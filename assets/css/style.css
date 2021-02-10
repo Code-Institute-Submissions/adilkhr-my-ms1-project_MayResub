@@ -26,10 +26,8 @@ h2{
 
 #logo {
     float: left;
-    font-size: 270%;
+    font-size: 280%;
     margin-left: 30px;
-    line-height: 80px;
-    font-weight: bold;
 }
 
 
@@ -377,7 +375,7 @@ footer {
     }
 
     .form-section {
-        left:0;
+        left:0px;
     }
 
 }
