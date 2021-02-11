@@ -134,7 +134,7 @@ h2{
 
 hr {
     border-top: 1px solid black;
-    widows: 100px;
+    width: 100px;
     margin: 5px 0;
 }
 
