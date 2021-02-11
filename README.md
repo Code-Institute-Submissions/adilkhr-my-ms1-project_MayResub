@@ -63,8 +63,8 @@ My pages seem to be responsive when testing on the following devices: Desktop, P
 
 ### Code validation:
 
-*When inputing index.html code through w3schools validatior all code for the index.html seem to fine with no erros
-*When inputing gallery.html code through w3schools validatior i had an error for my src elements as i needed to add an alt attribute to them.
+* When inputing index.html code through w3schools validatior all code for the index.html seem to fine with no erros
+* When inputing gallery.html code through w3schools validatior i had an error for my src elements as i needed to add an alt attribute to them.
 ### Fixed bugs:
 
 ## Deployment
