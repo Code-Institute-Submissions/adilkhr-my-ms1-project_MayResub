@@ -42,7 +42,6 @@ Sign up page will include a sign up form for new members to join
 The Gallery page will showcase images of the gym and facilities aswell as photos of members of the gym working out
 
 
-
 ## Wireframes
 
 
@@ -63,6 +62,9 @@ My pages seem to be responsive when testing on the following devices: Desktop, P
 ### Test cases:
 
 ### Code validation:
+
+*When inputing index.html code through w3schools validatior all code for the index.html seem to fine with no erros
+*When inputing gallery.html code through w3schools validatior i had an error for my src elements as i needed to add an alt attribute to it, which i then did by adding the alt attribute with the purpose of the images
 
 ### Fixed bugs:
 
