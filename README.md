@@ -75,6 +75,5 @@ My pages seem to be responsive when testing on the following devices: Desktop, P
 * Resolved the CSS errors by adjusting the typo erros 
 * Resolved the issue by deleting the for attributes inside the input elements
 
-## Credits
 
 
