@@ -27,20 +27,19 @@ The Header will be bold and easy to use with the name of A fitness with a home, 
 
 ### Footer:
 
-The Footer page will contain social media links
+The Footer page will contain social media links for users to browse and connect even further with the gym
 
 ### Home:
 
-Home page will include details about the gym aswell as having hero images, it will also contain the gym schedules that we do during the week and some information on the gym
+Home page will include details about the gym aswell as having hero images, it will also contain the gym schedules that we do during the week and some information about the gym and what we aim to do for users
 
 ### Sign up page:
 
-Sign up page will include a sign up form for new members to join
+Sign up page will include a sign up form for new members to join and get contacted if they happen to have any concerns
 
 ### Gallery Page:
 
 The Gallery page will showcase images of the gym and facilities aswell as photos of members of the gym working out
-
 
 ## Wireframes
 
@@ -66,11 +65,13 @@ My pages seem to be responsive when testing on the following devices: Desktop, P
 * When inputing index.html code through w3schools validator all code for the index.html seem to fine with no erros
 * When inputing gallery.html code through w3schools validator i had an error for my src elements as i needed to add an alt attribute to them
 * When inputing CSS coding through w3schools validator i had 2 small errors in my coding due to typo errors
+* When inputing signup.html code through w3schools validator i had a few errors involving the for attribute i had attatched in the input element
 
 ### Fixed bugs:
 
 * Resolved the alt attribute issue for the gallery.html by adding an alt attribute to each src element
 * Resolved the CSS errors by adjusting the typo erros 
+* Resolved the issue by deleting the for attributes inside the input elements
 
 ## Deployment
 
