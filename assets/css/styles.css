@@ -1,0 +1,9 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Russo One', sans-serif;
+}
+
+.menu-bar {
+    background-color: red;
+}
