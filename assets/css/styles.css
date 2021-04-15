@@ -64,3 +64,32 @@
         font-size: 20px;
     }
 }
+
+/*-- Cards styling --*/
+
+#Goals {
+    background-color: #fff;
+}
+
+#Goals h1 {
+    font-weight: 900;
+    font-size: 34px;
+    padding-bottom: 5px;
+}
+
+#Goals p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.title {
+    text-align: center;
+    padding: 25px 0px;
+}
+
+.card-body {
+    box-shadow: 0 0 20px 7px rgba(0,0,0,0.1);
+}
+
+.card {
+    margin: 20px 10px;
+}
