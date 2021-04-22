@@ -113,3 +113,50 @@
 #schedule p {
     font-family: 'Roboto', sans-serif;
 }
+
+/*-- Footer Styling --*/
+
+.page-footer{
+    background-color: black;
+}
+
+.sociallinks{
+    background-image: linear-gradient(-90deg, black, #001684);
+    margin-top: 100px;
+}
+
+.footerbg{
+    background-color: black;
+}
+
+.hr {
+    width: 90px;
+    height: 2px;
+    background-color: #001684;
+}
+
+.footerheader{
+    color: #fff;
+}
+
+.mt-2{
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.my-2{
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.hrhours{
+    width: 60px;
+    height: 2px;
+    background-color: #001684;
+}
+
+.hrcontact{
+    width: 75px;
+    height: 2px;
+    background-color: #001684;
+}
