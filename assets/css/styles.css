@@ -44,26 +44,16 @@
     }
 }
 
-/*-- Jumbotron Styling --*/
+/*-- heroimage Styling --*/
 
-.jumbotron{
-    background-image: url('../img/jumbotron.jpg');
-    background-size: cover;
-    min-height: 900px;
+.heroimage{
+    background-image: url('../img/jumbotronimg.png');
+    background-size: contain;
+    width: 100%;
+    padding-top: 66.6666667%;
+    background-repeat: no-repeat;
 }
 
-@media only screen and (max-width: 1000px) {
-    .jumbotron {
-        min-height: 500px;
-    }
-}
-
-@media only screen and (max-width: 600px) {
-    .jumbotron {
-        min-height: 350px;
-        font-size: 20px;
-    }
-}
 
 /*-- Cards styling --*/
 
