@@ -2,8 +2,7 @@
 
 ## The purpose of the project
 
-* To create a unique responsive website for a gym which will aim to attract potential members who want to know more about the gym and its procedures
-* The site will also aim to be useable for existing gym members also
+* To create a unique responsive website using HTML and CSS for a gym which will aim to attract potential members who want to know more about the gym and what they have to offer including facilities, training sessions, which they will then have the option to sign up with the gym. The website will also aim to be useable for visting users and member who are already signed with the gym.
 
 ## User stories
 
@@ -14,7 +13,7 @@
 * I also want to know the location of the gym and the opening hours as i need to see if i can find a time that works for me
 * I would like to find the ways to then sign up for the gym
 
-### Existing User goals
+### Visting User goals
 
 * As an existing user to the site, i want to find information on the schedules that the gym have on a weekly basis to see if there are any changes to the schedules 
 * I would also want to be able to easily access the conact details of the gym if i were to have any queries or problems with my gym membership/experience
