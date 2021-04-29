@@ -92,6 +92,11 @@
     margin-bottom: 80px;
 }
 
+@media (max-width: 350px){
+    .table{
+        font-size: 12.5px;
+}
+}
 #schedule {
     background-color: #fff;
 }
