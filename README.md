@@ -66,7 +66,7 @@ Wireframes have been created for all three pages and have been designed for desk
 
 ### Supported screens and browsers:
 
-After using bootstrap to build my pages and the CSS media queries styles, my site is supported for all screens with a width of 280px and above and is supported for all browsers
+After using bootstrap to build my pages and the use of CSS media queries styles, my site is supported for all screens with a width of 280px and above and is supported for all browsers
 
 ### Test cases:
 
@@ -74,8 +74,8 @@ After using bootstrap to build my pages and the CSS media queries styles, my sit
 
 * When inputing index.html code through w3schools validator all code for the index.html seem to fine with no erros
 * When inputing gallery.html code through w3schools validator i had an error for my src elements as i needed to add an alt attribute to them
-* When inputing CSS coding through w3schools validator i had 2 small errors in my coding due to typo errors
 * When inputing signup.html code through w3schools validator i had a few errors involving the for attribute i had attatched in the input element
+* When inputing CSS coding through w3schools validator i had 2 small errors in my coding due to typo errors
 
 ### Fixed bugs:
 
@@ -83,9 +83,11 @@ After using bootstrap to build my pages and the CSS media queries styles, my sit
 * Resolved the CSS errors by adjusting the typo erros 
 * Resolved the issue by deleting the for attributes inside the input elements
 
-# Deployment:
+## Deployment
 
-# Credits:
+The deployment process of my project was simple, when creating my html pages through gitpod i had made sure that i had added the file and then git commit it with a message then done a git push, once that was done i ensured that i had deployed the github pages by going on the github pages section and changing the source branch to master so that the site would be live and published giving me the live sight URL. I had ensured that git commit adds and git commit messages were done regurlaly and nessecary with relevant comments and then pushed out with the git push comand through git pod
+
+## Credits
 
 
 
