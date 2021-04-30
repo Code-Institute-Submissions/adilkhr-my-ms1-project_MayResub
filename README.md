@@ -81,9 +81,7 @@ I had used the w3schools validator tool to see if there was any issues with my H
 
 ### Fixed bugs:
 
-* Resolved the alt attribute issue for the gallery.html by adding an alt attribute to each src element
-* Resolved the CSS errors by adjusting the typo erros 
-* Resolved the issue by deleting the for attributes inside the input elements
+* An issue i was having with my home page was that i found that the gym trainning schedule table was not responsive for the galaxy fold screen which has a 280px screen width causing some horizontal scrolling to occur, i had fixed this issue by adding a media query to reduce the font size when viewed on smaller screen sizes
 
 ## Deployment
 
