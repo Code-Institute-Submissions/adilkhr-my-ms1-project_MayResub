@@ -55,7 +55,7 @@
 }
 
 
-/*-- Cards styling --*/
+/*-- Gym Cards styling --*/
 
 #Goals {
     background-color: #fff;
@@ -85,7 +85,7 @@
     margin: 20px 10px;
 }
 
-/*-- Table Styling --*/
+/*-- Gym training schedule Table Styling --*/
 
 .table {
     background-image: linear-gradient(-90deg, black, #001684);

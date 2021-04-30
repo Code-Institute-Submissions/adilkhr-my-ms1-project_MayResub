@@ -66,7 +66,7 @@ Wireframes have been created for all three pages and have been designed for desk
 
 ### Supported screens and browsers:
 
-My pages seem to be responsive when testing on the following devices: Desktop, Pixel 2, Pixel 2xl, Iphone 6/7/8, Iphone 6/7/8 plus, Iphone x, Ipad, Ipad pro and Surface duo
+After using bootstrap to build my pages and the CSS media queries styles, my site is supported for all screens with a width of 280px and above and is supported for all browsers
 
 ### Test cases:
 
