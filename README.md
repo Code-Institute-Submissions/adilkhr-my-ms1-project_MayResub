@@ -44,6 +44,8 @@ The Gallery page will showcase images of the gym and facilities aswell as photos
 
 ## Future Features: 
 
+A future feature that i would like to add to my website would be a login portal for members so that they can see for example their stats on their gym usage for the week aswell as them bwing able to log in their progress and make a sort of timetable that suits them
+
 ## Wireframes
 
 Wireframes have been created for all three pages and have been designed for desktop, tablet and phones. Wireframes can be viewed through the wireframes folder
