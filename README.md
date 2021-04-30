@@ -52,7 +52,8 @@ Wireframes have been created for all three pages and have been designed for desk
 
 ## Typography and color scheme
 
-I used a black and white colour scheme for my page layouts aswell as some blue to add some more color to make it look much more appealing, and i used the google fonts Roboto, Russo One and Shans Sherrif
+* For Typography i used google fonts and used the font familys of russo one and robboto with the russo one font being the main font family used across the site as its font that i felt stands out alot
+* The color scheme used throughout the page were mainly white, black and a royal dark blue as i felt there was no need to overcomplicate the site with too many colors otherwise it wouldnt look visually appealing, i used the hex values of #fff for an offwhite color and #001684 for a nice dark royal blue shade across the page
 
 ## Technonology
 
