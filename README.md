@@ -8,33 +8,35 @@
 
 ### First time visitor goals
 
-* As a first time visitor, i want to easily understand how to navigate the site
-* Want to understand what the gym has to offer such as classes and schedule
+* As a first time visitor, i want to easily understand how to navigate the site annd switch to other pages with ease aswel as being able to use the site on other devices
+* I Want to understand what the gym has to offer such as their aims for their members aswell as what training session they run during the week
 * I also want to know the location of the gym and the opening hours as i need to see if i can find a time that works for me
-* I would like to find the ways to then sign up for the gym
+* I would also like to see what facilities the gym has to offer 
+* I would like to also have an option to sign up for the gym and become a member
 
 ### Visting User goals
 
-* As an existing user to the site, i want to find information on the schedules that the gym have on a weekly basis to see if there are any changes to the schedules 
-* I would also want to be able to easily access the conact details of the gym if i were to have any queries or problems with my gym membership/experience
+* As a visting user to the site, i want to find the information on the training sessions that the gym have on a weekly basis to see if there are any changes to the schedules
+* Being a visting user and a member of the gym i want to have easy access to the contact information of the gym if i have any issues or queries, also be able to check the opening hours of the gym 
+* Also as a visting user i want to be able to use the site on other devices when im on the go without having any viewing issues
 
 ## Features
 
-### Header:
+### Navigation Bar:
 
-The Header will be bold and easy to use with the name of A fitness with a home, signup and gallery button which users will be able to click to navigate from page to page
+The Navigation bar will be vibrant and easy to use with the name of ADZ fitness with a home, signup and gallery button which users will be able to click to navigate from page to page, aswell as having a dropdown button when being viewed on smaller screen devices making it fully responsive
 
 ### Footer:
 
-The Footer page will contain social media links for users to browse and connect even further with the gym
+The Footer will contain social media links for users to browse and connect even further with the gym aswell as vibrant design matching with the navigation bar, it will also have and about us section and the opening hours of the gym aswell as also having the contact information of the gym. The footer wil also be repsonsive for all devices aswell
 
 ### Home:
 
-Home page will include details about the gym aswell as having hero images, it will also contain the gym schedules that we do during the week and some information about the gym and what we aim to do for users
+Home page will include details about the gyms goals and aims for members and new users with showcase images aswell as having a bold hero image, it will also contain the gyms training schedules that is done during the week
 
 ### Sign up page:
 
-Sign up page will include a sign up form for new members to join and get contacted if they happen to have any concerns
+Sign up page will include a sign up form for new members to fill in their details so that they will be contacted with an induction date
 
 ### Gallery Page:
 
