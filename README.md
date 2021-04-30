@@ -44,7 +44,7 @@ The Gallery page will showcase images of the gym and facilities aswell as photos
 
 ## Future Features: 
 
-A future feature that i would like to add to my website would be a login portal for members so that they can see for example their stats on their gym usage for the week aswell as them bwing able to log in their progress and make a sort of timetable that suits them
+A future feature that i would like to add to my website would be a login portal for members so that they can see for example their stats on their gym usage for the week aswell as them being able to log in their progress and make a sort of timetable that suits them
 
 ## Wireframes
 
@@ -72,10 +72,12 @@ After using bootstrap to build my pages and the use of CSS media queries styles,
 
 ### Code validation:
 
-* When inputing index.html code through w3schools validator all code for the index.html seem to fine with no erros
-* When inputing gallery.html code through w3schools validator i had an error for my src elements as i needed to add an alt attribute to them
-* When inputing signup.html code through w3schools validator i had a few errors involving the for attribute i had attatched in the input element
-* When inputing CSS coding through w3schools validator i had 2 small errors in my coding due to typo errors
+I had used the w3schools validator tool to see if there was any issues with my HTML and CSS codes, (https://validator.w3.org/)
+
+* When inputing my index.html code through w3schools validator i had noticed there was erros with the images used for the gyms aims section as they did not have alt attributes, after adding the alt attributes there is no erros with the index html code
+* When inputing gallery.html code through w3schools validator there was no errors
+* When inputing signup.html code through w3schools validator i had a 2 major problems, i had a typo error with the for attributes for the label tags and i had also had the name attributes empty for the input tags in the sign up form, after resolving that issue, there is no erros with the signup html code 
+* When inputing CSS coding through w3schools validator there was no erros
 
 ### Fixed bugs:
 
@@ -91,7 +93,7 @@ The deployment process of my project was simple, when creating my html pages thr
 
 * All images were taken from https://unsplash.com/images/stock
 * I had taken some inspirtation from the code institute project Love running to help give me an idea on how to strucutre my site and what to include in my pages
-* I had used bootstrap version 4.6  to help me create a responsive site https://getbootstrap.com/docs/4.6/getting-started/introduction/
+* I had used bootstrap version 4.6 to help me create a responsive site https://getbootstrap.com/docs/4.6/getting-started/introduction/
 
 
 
