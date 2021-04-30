@@ -57,7 +57,10 @@ Wireframes have been created for all three pages and have been designed for desk
 
 ## Technonology
 
-The technology used to code my project was CSS and HTML
+* The Languages used to code my project were HTML and CSS as i used HTML to build the content of the site and then used CSS to then style the HTML content to make it look visually appealing for users
+* I used Google fonts and fontawesome icon links in my pages to add specific font styles aswell as icons to my page to make it look appealing and not dull and boring
+* I used bootstrap version 4.6 to create sections of the pages so that it would be resonsive for all screens  
+* I used github and gitpod to code the site aswell as deploying the github pages live so that the site is active and live for anyone to use
 
 ## Testing
 
