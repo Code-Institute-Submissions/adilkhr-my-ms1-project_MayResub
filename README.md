@@ -42,10 +42,11 @@ Sign up page will include a sign up form for new members to fill in their detail
 
 The Gallery page will showcase images of the gym and facilities aswell as photos of members of the gym working out
 
+## Future Features: 
+
 ## Wireframes
 
 Wireframes have been created for all three pages and have been designed for desktop, tablet and phones. Wireframes can be viewed through the wireframes folder
-
 
 ## Typography and color scheme
 
@@ -75,6 +76,10 @@ My pages seem to be responsive when testing on the following devices: Desktop, P
 * Resolved the alt attribute issue for the gallery.html by adding an alt attribute to each src element
 * Resolved the CSS errors by adjusting the typo erros 
 * Resolved the issue by deleting the for attributes inside the input elements
+
+# Deployment:
+
+# Credits:
 
 
 
