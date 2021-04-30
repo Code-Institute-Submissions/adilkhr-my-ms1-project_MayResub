@@ -89,5 +89,9 @@ The deployment process of my project was simple, when creating my html pages thr
 
 ## Credits
 
+* All images were taken from https://unsplash.com/images/stock
+* I had taken some inspirtation from the code institute project Love running to help give me an idea on how to strucutre my site and what to include in my pages
+* I had used bootstrap version 4.6  to help me create a responsive site https://getbootstrap.com/docs/4.6/getting-started/introduction/
+
 
 
