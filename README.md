@@ -48,7 +48,7 @@ A future feature that i would like to add to my website would be a login portal 
 
 ## Wireframes
 
-Wireframes have been created for all three pages and have been designed for desktop, tablet and phones. Wireframes can be viewed through the wireframes folder
+* Wireframes for desktop have been created for all three pages and can be viewed through this link: (https://github.com/adilkhr/my-ms1-project/blob/master/wireframes/wireframesMS1desktop.pdf)
 
 ## Typography and color scheme
 
