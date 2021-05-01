@@ -49,6 +49,7 @@ A future feature that i would like to add to my website would be a login portal 
 ## Wireframes
 
 * Wireframes for desktop have been created for all three pages and can be viewed through this link: (https://github.com/adilkhr/my-ms1-project/blob/master/wireframes/wireframesMS1desktop.pdf)
+* Wireframes for mobile phone have been created for all three pages and can be viewed through this link: (https://github.com/adilkhr/my-ms1-project/blob/master/wireframes/wireframesMS1phone.pdf)
 
 ## Typography and color scheme
 
@@ -61,6 +62,7 @@ A future feature that i would like to add to my website would be a login portal 
 * I used Google fonts and fontawesome icon links in my pages to add specific font styles aswell as icons to my page to make it look appealing and not dull and boring
 * I used bootstrap version 4.6 to create sections of the pages so that it would be resonsive for all screens  
 * I used github and gitpod to code the site aswell as deploying the github pages live so that the site is active and live for anyone to use
+* I used Balsamiq wireframes to create wireframes for my site
 
 ## Testing
 
