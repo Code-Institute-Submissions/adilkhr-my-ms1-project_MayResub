@@ -1,5 +1,13 @@
 # Milestone project 1: Building a websitie for a gym ADZ Fitness
 
+![Main Mockup](README-files/mainmockup.png)
+
+[Link to Live Website](https://adilkhr.github.io/my-ms1-project/)
+
+[GitHub Repo](https://github.com/adilkhr/my-ms1-project)
+
+***
+
 ## The purpose of the project
 
 * To create a unique responsive website using HTML and CSS for a gym which will aim to attract potential members who are looking to get fit and healthy and what to sign up to a gym, they will also want to know more about the gym and what the gym has to offer including facilities, training sessions, which they will then have the option to sign up with the gym. The website will also aim to be useable for visting users and member who are already signed with the gym.
