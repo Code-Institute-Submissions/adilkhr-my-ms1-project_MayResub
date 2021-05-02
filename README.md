@@ -95,6 +95,7 @@ A future feature that i would like to add to my website would be a login portal 
 ***
 
 ## Wireframes
+Note: Wireframes for desktop is the same strucuture for tablet
 
 * Wireframes for desktop have been created for all three pages and can be viewed through this link: (https://github.com/adilkhr/my-ms1-project/blob/master/wireframes/wireframesMS1desktop.pdf)
 * Wireframes for mobile phone have been created for all three pages and can be viewed through this link: (https://github.com/adilkhr/my-ms1-project/blob/master/wireframes/wireframesMS1phone.pdf)
@@ -108,13 +109,15 @@ A future feature that i would like to add to my website would be a login portal 
 
 ***
 
-## Technonology
+## Technonologies Used
 
-* The Languages used to code my project were HTML and CSS as i used HTML to build the content of the site and then used CSS to then style the HTML content to make it look visually appealing for users
+* The Languages used to code my project were HTML5 to create the Mark-up language using sematic structure, and CCS3 for the Cascading style sheet used to style the content look visually appealing
 * I used Google fonts and fontawesome icon links in my pages to add specific font styles aswell as icons to my page to make it look appealing and not dull and boring
 * I used bootstrap version 4.6 to create sections of the pages so that it would be resonsive for all screens  
-* I used github and gitpod to code the site aswell as deploying the github pages live so that the site is active and live for anyone to use
+* I used Github to host the repository and Gitpod.io to write the code, and using the command line for committing and pushing the code to Github
+* I used GIT for version control of the project
 * I used Balsamiq wireframes to create wireframes for my site
+* I used Paint to create design the hero image of the home page of the site
 
 ***
 
