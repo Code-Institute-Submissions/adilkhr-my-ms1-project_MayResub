@@ -93,16 +93,24 @@ The Gallery page will showcase images of the gym and facilities aswell as photos
 A future feature that i would like to add to my website would be a login portal for members so that they can see for example their stats on their gym usage for the week aswell as them being able to log in their progress and make a sort of timetable that suits them
 
 ***
+## Skeleton
 
-## Wireframes
-Note: Wireframes for desktop is the same strucuture for tablet
+### Wireframes:
+Note: Wireframes for the desktop share the same strucuture for tablet
 
 * Wireframes for desktop have been created for all three pages and can be viewed through this link: (https://github.com/adilkhr/my-ms1-project/blob/master/wireframes/wireframesMS1desktop.pdf)
+
 * Wireframes for mobile phone have been created for all three pages and can be viewed through this link: (https://github.com/adilkhr/my-ms1-project/blob/master/wireframes/wireframesMS1phone.pdf)
+
+### Mockup:
+
+![Mock ups](README-files/mockuphomepge.png)
+![Mock ups](README-files/mockupgallerypage.png)
+![Mock ups](README-files/mockupsignuppage.png)
 
 ***
 
-## Typography and color scheme
+### Typography and color scheme
 
 * For Typography i used google fonts and used the font familys of russo one and robboto with the russo one font being the main font family used across the site as its font that i felt stands out alot
 * The color scheme used throughout the page were mainly white, black and a royal dark blue as i felt there was no need to overcomplicate the site with too many colors otherwise it wouldnt look visually appealing, i used the hex values of #fff for an offwhite color and #001684 for a nice dark royal blue shade across the page
