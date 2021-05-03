@@ -21,17 +21,21 @@
 
 #### First time visitor goals:
 
-* As a first time visitor im looking to sign up to a gym as i feel that i need to keep myself fit and healthy, i want to easily understand how to navigate the site annd switch to other pages with ease aswel as being able to use the site on other devices
-* I Want to understand what the gym has to offer such as their aims for their members aswell as what training session they run during the week
+* As a first time visitor im looking to sign up to a gym as i feel that i need to keep myself fit and healthy
+* i want to easily navigate the site and switch to other pages with ease aswell as being able to use the site on other devices
+* I Want to know what the gym has to offer such as their aims for their members
+* I want to know what training session the gym runs during the week
 * I also want to know the location of the gym and the opening hours as i need to see if i can find a time that works for me
 * I would also like to see what facilities the gym has to offer 
 * I would like to also have an option to sign up for the gym and become a member
+* I would like to have easy acess to the gyms contact information aswell as seeing their opening hours
 
 #### Visting User goals:
 
 * As a visting user to the site, i want to find the information on the training sessions that the gym have on a weekly basis to see if there are any changes to the schedules
 * Being a visting user and a member of the gym i want to have easy access to the contact information of the gym if i have any issues or queries, also be able to check the opening hours of the gym 
 * Also as a visting user i want to be able to use the site on other devices when im on the go without having any viewing issues
+* Being a visting user to the site, i would want to expand my connection with the gym by being able to access their social media pages 
 
 #### Reasons for the website:
 
@@ -151,7 +155,22 @@ Note: Wireframes for the desktop share the same strucuture for tablet
 
 After using bootstrap to build my pages and the use of CSS media queries styles, my site is supported for all screens with a width of 280px and above and is supported for all browsers
 
-### Test cases:
+### Testing User Stories:
+
+* #### A first user looking to sign up to the gym
+The user can fill in the sign up form that has been created on the sign up page
+* #### A user looking to navigate the site and switch to other pages aswell as being able to use the site on other devices
+The user can naviagate from page to page (Home, Gallery and Signup) with the responsive navbar and can navigate the page without any issue as the site for all pages and sections are responsive
+* #### A user wanting to know what training session the gym runs during the week
+The user can see the gyms training sessions that are run during the week on the home page as it is layed out in a table
+* #### A user want to know the location of the gym and the opening hours
+The user can see the gyms opening hours for all the days in the week on the footer for all pages
+* #### A user wanting to see images of the gyms facilities and other images related to the gym
+The user can view images of the gyms facilites and member images working out on the gallery page
+* #### A user being able to acess the gyms contact information if they have any queries
+The user can access the gyms contact information (address, email, phone, Fax) on the footer for all pages
+* #### A user wanting to connect to the gyms social media accounts
+The user can click on the social media icons which are linked to their respective social media pages through the footer section
 
 ### Code validation:
 
