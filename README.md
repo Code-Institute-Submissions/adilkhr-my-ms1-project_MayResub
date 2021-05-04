@@ -161,9 +161,23 @@ Note: Wireframes for the desktop share the same strucuture for tablet
 
 ## Testing
 
-### Supported screens and browsers:
+### Supported screens:
 
-After using bootstrap to build my pages and the use of CSS media queries styles, my site is supported for all screens with a width of 280px and above and is supported for all browsers
+After using bootstrap to build my pages and the use of CSS media queries styles, using the google inspect tool i was able to see that my site is supported for all screens with a width of 280px. I also did some testing by sending my website link to my friends and familys devices and they had seen no issues
+
+### Supported browsers: 
+
+The website link has been tested on Google chrome, Internet Explorer and Microsoft edge, Brave and Firefox.
+
+### OS compatibility:
+
+Tested on iOS, Android 10, and Windows 10. - I asked a friend with an Adroid to test that it was working.
+Tested for responsiveness using Chrome DevTools.
+
+### Peformance Testing
+
+Tested on the Developer Tools Lighthouse. This was the first time running through Lighthouse
+
 
 ### Testing User Stories:
 
