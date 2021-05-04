@@ -155,7 +155,7 @@ Note: Wireframes for the desktop share the same strucuture for tablet
 * I used Github to host the repository and Gitpod.io to write the code, and using the command line for committing and pushing the code to Github
 * I used GIT for version control of the project
 * I used Balsamiq wireframes to create wireframes for my site
-* I used Paint to create design the hero image of the home page of the site
+* I used Paint to design the hero image of the home page
 
 ***
 
@@ -267,20 +267,21 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ### Code:
 
-* I have used [bootstrap library](https://getbootstrap.com/docs/4.6/getting-started/introduction/) version 4.6 to help me create a responsive site by using bootsrap navigation to build the nav bar, bootstrap cards to create the gym's goals and aims section in the home page, bootstrap table to create a responsive gym training schedule in the home page aswell as using bootsrap carousel to showcase the gym's photos in the gallery page aswell as using bootstrap forms to create a responsive signup form and bootstrap footer for the responsive footer
+* I have used [bootstrap library](https://getbootstrap.com/docs/4.6/getting-started/introduction/) version 4.6 to help me create a responsive site by using bootsrap navigation to build the nav bar, bootstrap cards to create the gym's goals and aims section in the home page, bootstrap table to create a responsive gym training schedule in the home page aswell as using bootsrap carousel to showcase the gym's photos in the gallery page aswell as using bootstrap forms to create a responsive signup form and bootstrap footer for the responsive footer.
 
 ### media:
 
-* All images used were taken from [Unsplash](https://unsplash.com/)
+* All images used were taken from [Unsplash](https://unsplash.com/).
 
 ### Acknowledgements
 
 * Rohit Sharma (mentor support) - provided me with help on how to strucutre the site and make it responsive using bootstrap.
 * Matt Rudge - Template for gitpod.io.
 * Igor_ci (from slack) Provided help on how to link wireframes to the README.
-* Full Stack Developers WhatApp group (memebers of the codeinstitute slack community) - for taking the time to test the website aswell as providing help when needed with issues such as fixing table responsivness.
+* Full Stack Developers WhatApp group (members of the codeinstitute slack community) - for taking the time to test the website aswell as providing help when needed with issues such as fixing table responsivness.
 * Rebecca Kelsall (fellow codeinstiute student)  - for proof reading my README.md.
 
+* I had used the Code [institute sample read me template](https://github.com/Code-Institute-Solutions/SampleREADME) to strcuture my own readme.
 * I had used [Tiny PNG](https://tinypng.com/) to change some images to smaller sizes.
 * [Am I Responsive](http://ami.responsivedesign.is/#) was used in checking the responsive nature for my site alongside creating the mockup files.
 * [W3schools](https://www.w3schools.com/) was used for various code information and trouble shooting problems.
