@@ -176,9 +176,6 @@
     line-height: 48px;
     padding-bottom: 20px;
     color: #001684;
-    background: linear-gradient(to right, black 0%, #001684 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
 }
 
 .signmessage{
